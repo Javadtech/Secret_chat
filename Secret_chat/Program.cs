@@ -2,7 +2,7 @@
 
 namespace Secret_chat
 {
-    //------------------------
+    //---
     internal class Program
     {
 
